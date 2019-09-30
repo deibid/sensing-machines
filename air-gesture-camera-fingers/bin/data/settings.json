@@ -1,0 +1,14 @@
+{
+    "Object_Tracker": {
+        "Blur_Radius": "5",
+        "Color_Threshold": "39",
+        "Debug_Mode": "1",
+        "Dilate_Amount": "1",
+        "Drawing_Mode": "0",
+        "Max_Area_Target": "0.117",
+        "Max_Distance_to_Track": "0.7",
+        "Min_Area_Target": "0.005",
+        "Persistance_Frames": "60",
+        "Target_Color": "76, 165, 162, 255"
+    }
+}
